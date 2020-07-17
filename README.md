@@ -1,6 +1,7 @@
-# next_hour
+This is the initial phase of the app, it is still under development
+# A flutter Movie Application
 
-A new Flutter application.
+Next Hour Movie app
 
 ## Getting Started
 
